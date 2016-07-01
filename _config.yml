@@ -1,14 +1,14 @@
 layout_spectrum: 0.19748515216633677
-typography_spectrum: 0.6891616669017822
+typography_spectrum: 0.9792551370337605
 color:
-  brandStrength: 0.3918522030580789
-  lightness: 0.1676261518150568
-  saturation: 0.2567020608112216
-  rhythmicContrast: 0.3220339333638549
+  brandStrength: 0.9418820380233228
+  lightness: 0.3526865802705288
+  saturation: 0.014468587003648281
+  rhythmicContrast: 0.906975174555555
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Kuble AG
