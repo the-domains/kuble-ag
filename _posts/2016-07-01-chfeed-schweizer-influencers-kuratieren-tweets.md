@@ -21,10 +21,10 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://blog.kuble.com/chfeed-schweizer-influencers-kuratieren-tweets/'
 title: '#chfeed - Schweizer Influencers kuratieren Tweets'
-datePublished: '2016-07-01T12:31:22.543Z'
-dateModified: '2016-07-01T12:30:55.538Z'
-starred: false
+datePublished: '2016-07-01T12:46:52.035Z'
+dateModified: '2016-07-01T12:46:51.308Z'
 sourcePath: _posts/2016-07-01-chfeed-schweizer-influencers-kuratieren-tweets.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
