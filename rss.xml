@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Kuble AG]]></title>
         <description><![CDATA[Kuble AG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kuble-ag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 12:31:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 12:36:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kuble-ag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fintech Briefing: Story Impact and our data-driven approach]]></title>
+            <description><![CDATA[<article><h1>Fintech Briefing: Story Impact and our data-driven approach</h1><p>As the graph below from Google Trends underlines, Fintech is a booming topic. It has established itself as an umbrella term for the digital transformation of the finance industry which ranges from mobile banking to crowdfunding, Apple Pay, or Blockchain. We keep a close eye on Fintech because we work for clients in the finance industry who need our expertise.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/665300890796620b4ae2a8736aa662c8/croprotate.png?cropheight=327&cropwidth=994&degrees=0&input=http%3A%2F%2Fblog.kuble.com%2Fwp-content%2Fuploads%2F2015%2F05%2FBildschirmfoto-2015-05-24-um-16.35.46.png&x=22&y=0"></article>]]></description>
+            <link>http://blog.kuble.com/daily-fintech-briefing-story-impact-and-our-data-driven-approach/</link>
+            <guid isPermaLink="false">3f3158d1-f810-4405-b644-b02708d73c9c</guid>
+            <pubDate>Fri, 01 Jul 2016 12:35:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#chfeed - Schweizer Influencers kuratieren Tweets]]></title>
-            <description><![CDATA[<article><h1>#chfeed - Schweizer Influencers kuratieren Tweets</h1><p>Mit #chfeed verbinden wir Content und Technik zu wöchentlichen Newslettern unterschiedlicher Themen. Wie funktioniert's? Die Influencer schreiben spannende Tweets zu den von ihnen kuratierten Themen oder retweeten solchen. Sie ergänzen die Posts mit dem Hashtag #chfeed. Sämtliche mit #chfeed publizierten Tweets werden automatisiert einmal in der Woche zu einem Newsletter zusammengefasst und an die Abonnenten verschickt.</p><img src="http://blog.kuble.com/wp-content/uploads/2016/05/vault-847460_1920.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>#chfeed - Schweizer Influencers kuratieren Tweets</h1><p>Mit #chfeed verbinden wir Content und Technik zu wöchentlichen Newslettern unterschiedlicher Themen. Wie funktioniert's? Die Influencer schreiben spannende Tweets zu den von ihnen kuratierten Themen oder retweeten solchen. Sie ergänzen die Posts mit dem Hashtag #chfeed. Sämtliche mit #chfeed publizierten Tweets werden automatisiert einmal in der Woche zu einem Newsletter zusammengefasst und an die Abonnenten verschickt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fda00121884cc58698a9bf3e521898ae/noop.jpg?input=http%3A%2F%2Fblog.kuble.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fvault-847460_1920.jpg"></article>]]></description>
             <link>http://blog.kuble.com/chfeed-schweizer-influencers-kuratieren-tweets/</link>
             <guid isPermaLink="false">24f51e2b-ed4d-4752-a449-3c854a9d1777</guid>
             <pubDate>Fri, 01 Jul 2016 12:31:22 GMT</pubDate>
