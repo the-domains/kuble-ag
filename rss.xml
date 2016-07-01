@@ -4,8 +4,15 @@
         <description><![CDATA[Kuble AG]]></description>
         <link>https://thegrid.ai/kuble-ag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 12:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 12:46:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kuble-ag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#chfeed - Schweizer Influencers kuratieren Tweets]]></title>
+            <description><![CDATA[<article><h1>#chfeed - Schweizer Influencers kuratieren Tweets</h1><p>Mit #chfeed verbinden wir Content und Technik zu wöchentlichen Newslettern unterschiedlicher Themen. Wie funktioniert's? Die Influencer schreiben spannende Tweets zu den von ihnen kuratierten Themen oder retweeten solchen. Sie ergänzen die Posts mit dem Hashtag #chfeed. Sämtliche mit #chfeed publizierten Tweets werden automatisiert einmal in der Woche zu einem Newsletter zusammengefasst und an die Abonnenten verschickt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fda00121884cc58698a9bf3e521898ae/noop.jpg?input=http%3A%2F%2Fblog.kuble.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fvault-847460_1920.jpg"></article>]]></description>
+            <link>http://blog.kuble.com/chfeed-schweizer-influencers-kuratieren-tweets/</link>
+            <guid isPermaLink="false">24f51e2b-ed4d-4752-a449-3c854a9d1777</guid>
+            <pubDate>Fri, 01 Jul 2016 12:46:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kuble Content Checker]]></title>
             <description><![CDATA[<article><h1>Kuble Content Checker</h1></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://blog.kuble.com/daily-fintech-briefing-story-impact-and-our-data-driven-approach/</link>
             <guid isPermaLink="false">3f3158d1-f810-4405-b644-b02708d73c9c</guid>
             <pubDate>Fri, 01 Jul 2016 12:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#chfeed - Schweizer Influencers kuratieren Tweets]]></title>
-            <description><![CDATA[<article><h1>#chfeed - Schweizer Influencers kuratieren Tweets</h1><p>Mit #chfeed verbinden wir Content und Technik zu wöchentlichen Newslettern unterschiedlicher Themen. Wie funktioniert's? Die Influencer schreiben spannende Tweets zu den von ihnen kuratierten Themen oder retweeten solchen. Sie ergänzen die Posts mit dem Hashtag #chfeed. Sämtliche mit #chfeed publizierten Tweets werden automatisiert einmal in der Woche zu einem Newsletter zusammengefasst und an die Abonnenten verschickt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fda00121884cc58698a9bf3e521898ae/noop.jpg?input=http%3A%2F%2Fblog.kuble.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fvault-847460_1920.jpg"></article>]]></description>
-            <link>http://blog.kuble.com/chfeed-schweizer-influencers-kuratieren-tweets/</link>
-            <guid isPermaLink="false">24f51e2b-ed4d-4752-a449-3c854a9d1777</guid>
-            <pubDate>Fri, 01 Jul 2016 12:31:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
